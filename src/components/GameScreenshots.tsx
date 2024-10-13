@@ -1,5 +1,5 @@
+import { Image, SimpleGrid } from "@chakra-ui/react";
 import useScreenshots from "../hooks/useScreenshots";
-import { SimpleGrid, Image } from "@chakra-ui/react";
 
 interface GameScreenshotsProps {
   gameId: number;
